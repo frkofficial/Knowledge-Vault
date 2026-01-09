@@ -74,3 +74,78 @@ nav button{
     border: 2px solid white;
 }
 
+/* section 2 */
+.learn{
+      
+      text-align: center;
+}
+.fail{
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.build{
+    color: #627382;
+}
+
+/* card section */
+.card-container{
+    margin-left: 250px;
+    display: flex;
+    gap: 30px;
+}
+.card{
+    border: 3px solid whitesmoke;
+    box-shadow: #627382;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+}
+.card img{
+    margin-top: 50px;
+    background-color: brown;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.card-para{
+    color: #627382;
+}
+
+/* section - 03 */
+.CheckCircle{
+    display: flex;
+    gap: 10px;
+}
+.CheckCircle img{
+    width: 30px;
+    height: 40px;
+}
+.solution{
+    color:#469165 ;
+}
+.second-brain{
+    font-size: 4em;
+}
+
+.second-brain-pera{
+    color: #627382;
+    font-size: 1,25em;
+}
+
+.second-brain-container{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.brain-container{
+    padding: 20px;
+}
+
