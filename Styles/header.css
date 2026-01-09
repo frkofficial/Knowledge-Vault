@@ -90,7 +90,8 @@ nav button{
 
 /* card section */
 .card-container{
-    margin-left: 250px;
+   justify-content: center;
+   align-items: center;
     display: flex;
     gap: 30px;
 }
@@ -149,3 +150,55 @@ nav button{
     padding: 20px;
 }
 
+/* section - 04 */
+
+.clear-think{
+    text-align: center;
+    background-color: #F7F6F2;
+    padding: 30px;
+}
+.ready{
+    font-weight: bold;
+    font-size: 3em;
+}
+
+.ready-pera{
+    color: #627382;
+}
+.ready-button{
+    background-color: #469165;
+    padding: 20px;
+    border-radius: 20px;
+    width: 300px;
+}
+
+/* footer */
+
+.footer{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    gap: 900px;
+}
+
+.socials{
+    display: flex;
+    gap: 10px;
+}
+.copy{
+    text-align: center;
+    color: #F7F6F2;
+}
+.footer h4{
+    color: #F7F6F2;
+}
+
+.footer i{
+    background-color: #F7F6F2;
+}
+
+.footer-color{
+    background-color: #001931;
+}
