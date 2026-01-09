@@ -1,3 +1,7 @@
+.hover:hover{
+     background-color: cadetblue;
+}
+
 nav{
     display: flex;
     justify-content: space-between;
