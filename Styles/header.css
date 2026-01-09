@@ -1,0 +1,76 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    
+
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav button{
+    border-radius: 10px;
+    background-color: #469165;
+    color: aliceblue;
+    padding: 10px;
+    cursor: pointer;
+    height: 60px;
+    width: 200px;
+}
+
+/* banner part */
+.banner{
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: auto;
+   background-image: url("../media/hero-bg.png");
+   background-size: cover;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   
+}
+.Structured{
+    font-size: 5em;
+}
+.white{
+    color: aliceblue;
+}
+.note-taking{
+    color:#469165 ;
+}
+.private{
+    color: aliceblue;
+    font-size:large;
+}
+.access{
+    padding: 10px;
+    width: 280px;
+    height: 20px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    color:#469165 ;
+}
+.banner button{
+    padding: 20px;
+    border-radius: 5px;
+}
+.vault{
+    background-color:#469165 ;
+}
+.works{
+    background-color: transparent;
+    color: aliceblue;
+    border: 2px solid white;
+}
+
