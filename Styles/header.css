@@ -35,7 +35,7 @@ nav button{
     align-items: center;
     height: 70vh;
     width: auto;
-   background-image: url("/Media/hero-bg.png");
+   background-image: url("../Media/hero-bg.png");
    background-size: cover;
    display: flex;
    flex-direction: column;
